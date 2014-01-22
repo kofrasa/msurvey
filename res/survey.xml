@@ -1,0 +1,23 @@
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<Survey>
+  <id>002</id>
+  <title>The Psycology of Sports</title>
+  <date_due>02/12/2008</date_due>
+  <questions>
+      <ques id="1" type="1">
+          <text>Do you like basketball</text>
+          <choice id="1">Yes</choice>
+          <choice id="2">No</choice>
+      </ques>
+      <ques id="2" type="2">
+          <text>Select the sports you like</text>
+          <choice id="1">Soccer</choice>
+          <choice id="2">Table Tennis</choice>
+          <choice id="3">Volley</choice>
+          <choice id="4">Dart</choice>
+      </ques>
+      <ques id="3" type="3">
+          <text>What is your age</text>
+      </ques>
+  </questions>
+</Survey>

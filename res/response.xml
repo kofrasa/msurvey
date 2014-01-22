@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : Response.xml
+    Created on : November 9, 2008, 9:44 PM
+    Author     : Francis
+    Description:
+        Describes the users response to a particular survey.
+-->
+
+<response>
+    <id>001</id>
+    <resp id="1" type="1">
+        <val>2</val>
+    </resp>
+    <resp id="2" type="2">
+        <val>1</val>
+        <val>3</val>
+    </resp>
+    <resp id="3" type="3">
+        <val>14</val>
+    </resp>
+</response>
